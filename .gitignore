@@ -1,3 +1,7 @@
+#Mac
+.DS_Store
+
+#The rest are what GitHub suggests for Python repos
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
