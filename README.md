@@ -13,4 +13,6 @@ The rendering engine should work with maps stored in a number of formats, includ
 
 The rendered documents should be identical in substance to those currently produced by Cmacc-app.
 
+Additional functionality should be vigorously resisted except where absolutely convenient and very consistent with the expansion notion.  (This explanation requires expansion.)
+
 
