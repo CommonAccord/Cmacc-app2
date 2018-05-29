@@ -1,7 +1,7 @@
 # Cmacc-app2
 Rewriting and formalizing the Prose Object rendering engine
 
-The goal is to work from first principles to at least one implementation that is reasonably fast and has the ability to tag each expansion span with metadata regarding its name and origin.
+The goal is to work from first principles to at least one implementation that is reasonably fast and has the ability to tag each expansion span with metadata regarding its name and origin map.
 
 In most condensed form:
 
